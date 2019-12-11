@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 import { Container, NewPlaylist, Nav } from "./styles";
@@ -29,7 +30,7 @@ const Sidebar = () => (
         <li>
           <a href="">Músicas</a>
         </li>
-        <li>
+        {/* <li>
           <a href="">Álbuns</a>
         </li>
         <li>
@@ -40,7 +41,7 @@ const Sidebar = () => (
         </li>
         <li>
           <a href="">Arquivos Locais</a>
-        </li>
+        </li> */}
         <li>
           <a href="">Vídeos</a>
         </li>
@@ -57,12 +58,12 @@ const Sidebar = () => (
         <li>
           <a href="">Metal Pesado</a>
         </li>
-        <li>
+        {/* <li>
           <a href="">Flash Back</a>
         </li>
         <li>
           <a href="">Love Songs</a>
-        </li>
+        </li> */}
       </Nav>
     </div>
     <NewPlaylist>

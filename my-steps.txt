@@ -2,3 +2,6 @@ yarn create react-app my-spotify-clone
 copy assets to src folder
 yarn add styled-components
 montserrat from google fonts
+code a lot
+yarn add rc-slider
+besides my efforts to stay at version 9 of node, I need to update to the last version because of several incompatibilities, when I meet at the point of the api for simulate requests that need this version.
