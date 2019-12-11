@@ -1,7 +1,8 @@
-import React from 'react';
+import React from "react";
 
-import './styles/global';
+import "./styles/global";
 
-const App = () => <div />;
+import Sidebar from "./components/sidebar/index";
 
+const App = () => <Sidebar />;
 export default App;
