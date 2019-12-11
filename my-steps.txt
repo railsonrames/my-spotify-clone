@@ -1,0 +1,4 @@
+yarn create react-app my-spotify-clone
+copy assets to src folder
+yarn add styled-components
+montserrat from google fonts
