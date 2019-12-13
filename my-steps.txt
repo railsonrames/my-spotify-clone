@@ -10,3 +10,5 @@ kaiser chiefs album cover -> https://lastfm.freetls.fastly.net/i/u/ar0/d222e43cf
 nirvana album cover -> http://www.tricolorontherock.com.br/wp-content/uploads/2016/09/Nirvana-Nevermind-Album-Cover.jpg
 bon jovi album cover -> https://tf7i72apx4545vzwn3oriyy1-wpengine.ne
 yarn add react-router-dom
+yarn add prettier -D
+yarn add eslint -D -> i neet to evaluate it
