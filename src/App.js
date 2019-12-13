@@ -1,12 +1,12 @@
-import React from "react";
+import React from 'react'
 
-import "./styles/global";
+import './styles/global'
 
-import Sidebar from "./components/Sidebar/index";
-import Player from "./components/Player/index";
-import Header from "./components/Header/index";
+import Sidebar from './components/Sidebar/index'
+import Player from './components/Player/index'
+import Header from './components/Header/index'
 
-import { Wrapper, Container, Content } from "./styles/components";
+import { Wrapper, Container, Content } from './styles/components'
 
 const App = () => (
   <Wrapper>
@@ -18,5 +18,5 @@ const App = () => (
     </Container>
     <Player />
   </Wrapper>
-);
-export default App;
+)
+export default App

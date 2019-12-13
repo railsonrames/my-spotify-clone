@@ -1,9 +1,8 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-import React from "react";
+import React from 'react'
 
-import { Container, NewPlaylist, Nav } from "./styles";
+import { Container, NewPlaylist, Nav } from './styles'
 
-import AddPlaylistIcon from "../../assets/images/add_playlist.svg";
+import AddPlaylistIcon from '../../assets/images/add_playlist.svg'
 
 const Sidebar = () => (
   <Container>
@@ -71,6 +70,6 @@ const Sidebar = () => (
       Nova Playlist
     </NewPlaylist>
   </Container>
-);
+)
 
-export default Sidebar;
+export default Sidebar
