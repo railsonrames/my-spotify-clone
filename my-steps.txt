@@ -8,7 +8,7 @@ besides my efforts to stay at version 9 of node, I need to update to the last ve
 massacration album cover -> http://2.bp.blogspot.com/_rUg2zEENQfQ/TSubalHShFI/AAAAAAAAA0Q/lI_nOrJ8HIY/s400/massacration_gates_of_metal_fried_chicken_of_death_2005_retail_cd-front.jpg
 kaiser chiefs album cover -> https://lastfm.freetls.fastly.net/i/u/ar0/d222e43cf9244e3a8bf4dd0baa09540c.jpg
 nirvana album cover -> http://www.tricolorontherock.com.br/wp-content/uploads/2016/09/Nirvana-Nevermind-Album-Cover.jpg
-bon jovi album cover -> https://tf7i72apx4545vzwn3oriyy1-wpengine.ne
+bon jovi album cover -> https://www.bonjovi.com/wp-content/uploads/2016/09/InsideOut2002.jpg
 yarn add react-router-dom
 yarn add prettier -D
 yarn add eslint -D -> i neet to evaluate it

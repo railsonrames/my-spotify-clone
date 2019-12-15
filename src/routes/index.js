@@ -1,9 +1,13 @@
 import React from 'react'
 
-import { Swich, Route } from 'react-router-dom'
+import { Switch, Route } from 'react-router-dom'
 
-const Route = () => (
-  <Swich>
-    <Route></Route>
-  </Swich>
+import Browse from '../pages/browse'
+
+const Routes = () => (
+  <Switch>
+    <Route exact path="/" component={Browse} />
+  </Switch>
 )
+
+export default Routes

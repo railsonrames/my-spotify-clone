@@ -1,13 +1,13 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
-import SearchIcon from "../../assets/images/search.svg";
+import SearchIcon from '../../assets/images/search.svg'
 
 export const Container = styled.header`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 10px 20px 0;
-`;
+  margin: 10px 0 0;
+`
 
 export const Search = styled.div`
   display: flex;
@@ -24,7 +24,7 @@ export const Search = styled.div`
     color: #121212;
     border: 0;
   }
-`;
+`
 
 export const User = styled.div`
   display: flex;
@@ -37,4 +37,4 @@ export const User = styled.div`
     border-radius: 50%;
     margin-right: 5px;
   }
-`;
+`
