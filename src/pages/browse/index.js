@@ -6,7 +6,7 @@ const Browse = () => (
   <Container>
     <Title>Navegar</Title>
     <List>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://2.bp.blogspot.com/_rUg2zEENQfQ/TSubalHShFI/AAAAAAAAA0Q/lI_nOrJ8HIY/s400/massacration_gates_of_metal_fried_chicken_of_death_2005_retail_cd-front.jpg"
           alt="Playlist"
@@ -14,7 +14,7 @@ const Browse = () => (
         <strong>Metal Pesado Xovem</strong>
         <p>Escute um Rock maroto e programe para o infinito.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://lastfm.freetls.fastly.net/i/u/ar0/d222e43cf9244e3a8bf4dd0baa09540c.jpg"
           alt="Playlist"
@@ -22,7 +22,7 @@ const Browse = () => (
         <strong>Pop Esperto</strong>
         <p>Ruby Ruby Ruby Ruby Ahhh Ahhhhhh.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://www.tricolorontherock.com.br/wp-content/uploads/2016/09/Nirvana-Nevermind-Album-Cover.jpg"
           alt="Playlist"
@@ -30,7 +30,7 @@ const Browse = () => (
         <strong>Light Rock</strong>
         <p>Para concentrar e alucinar.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://www.bonjovi.com/wp-content/uploads/2016/09/InsideOut2002.jpg"
           alt="Playlist"
