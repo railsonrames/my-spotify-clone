@@ -32,7 +32,7 @@ const Browse = () => (
       </Playlist>
       <Playlist to="/playlists/1">
         <img
-          src="https://www.bonjovi.com/wp-content/uploads/2016/09/InsideOut2002.jpg"
+          src="https://direct.rhapsody.com/imageserver/images/alb.366011533/500x500.jpg"
           alt="Playlist"
         />
         <strong>Bon Jovi Interessante</strong>
