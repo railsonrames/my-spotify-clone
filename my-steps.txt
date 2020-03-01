@@ -12,3 +12,6 @@ bon jovi album cover -> https://www.bonjovi.com/wp-content/uploads/2016/09/Insid
 yarn add react-router-dom
 yarn add prettier -D
 yarn add eslint -D -> i neet to evaluate it
+yarn add redux react-redux redux-saga
+yarn add rectotron-react-js reactotron-redux reactotron-redux-saga
+yarn global add json-server
