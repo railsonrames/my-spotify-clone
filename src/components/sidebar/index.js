@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 
 import { connect } from 'react-redux'
@@ -10,6 +11,18 @@ import { Container, NewPlaylist, Nav } from './styles'
 import AddPlaylistIcon from '../../assets/images/add_playlist.svg'
 
 class Sidebar extends Component {
+  static propTypes = {
+    getPlaylistsRequest: PropTypes.func.isRequired,
+    playlists: PropTypes.shape({
+      data: PropTypes.arrayOf(
+        PropTypes.shape({
+          id: PropTypes.number,
+          title: PropTypes.string,
+        })
+      ),
+    }).isRequired,
+  }
+
   componentDidMount() {
     this.props.getPlaylistsRequest()
   }
